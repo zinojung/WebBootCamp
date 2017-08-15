@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+#top {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+#left {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+#center {
+	border: 1px solid black;
+}
+
+#right {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+#bottom {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
